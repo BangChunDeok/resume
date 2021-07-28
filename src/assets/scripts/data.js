@@ -4,7 +4,7 @@ export default {
     job: '웹 프론트엔드 개발자',
     profile: 'https://avatars3.githubusercontent.com/u/12786855?s=460&u=f550803f0e4cfa0ff46a50b477cad324dbb1958f&v=4',
     updated: '2021-07-28',
-    email: 'villain406@kakao.com',
+    email: 'public.chunsik@gmail.com',
     phone: '010-8557-8011',
     introduce: `저는 서비스의 발전 및 개선을 통해 뿌듯함을 느끼는 것을 좋아합니다. 코드의 가치는 비즈니스적 가치를 창출할 수 있을 때 나온다고 생각합니다.`,
     buttons: [
